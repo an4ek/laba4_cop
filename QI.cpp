@@ -136,12 +136,6 @@ void f3(IX* pIX)
 
 
 // Клиент
-// Клиент
-#include <iostream>
-#include <windows.h>
-
-using namespace std;
-
 int main() {
     setlocale(LC_ALL, "Russian");
     cout << "Hello, world!" << endl;
