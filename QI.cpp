@@ -132,9 +132,6 @@ void f3(IX* pIX)
 }
 
 
-
-
-
 // Клиент
 int main() {
     setlocale(LC_ALL, "Russian");
